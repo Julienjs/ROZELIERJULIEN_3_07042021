@@ -1,0 +1,96 @@
+/*chargement*/
+.texte{
+	font-size: 100px;
+}
+
+.assiette{
+	width: 150PX;
+}
+/*header*/
+/*header-accueil*/
+.logo-ohmyfood{
+	width: 20%;
+}
+
+br{display: none}
+
+nav{
+	width:100%;
+	height: 370px;
+	background-color: white;
+}
+
+.btn{
+	height: 50px;
+	font-size: 1.2em;
+}
+
+
+/*header-restaurants*/
+
+.img-header{
+	object-fit: cover;
+	height: 1445px;
+}
+
+/*main-accueil*/
+
+.restaurants{
+	width: 100%;
+    height: 950px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	padding-bottom: 40px;
+}
+
+.restaurants h2{
+	width: 100%;
+	height: 50px;
+}
+
+.présentation{
+	width: 700px;
+	height: 400px;
+}
+.présentation img{
+	height: 300px;
+}
+
+.présentation h3{
+	margin-top: 20px;
+	width: 90%;
+}
+
+/*main-restaurants*/
+
+.menu{
+	width: 50%;
+	margin: 0 auto 30px auto ;
+	border-radius: 50px;
+}
+
+.menu h2{
+	margin: 20px auto 0 auto;
+	width: 70%;
+	font-size: 2em;	
+}
+
+.carte{
+	width: 70%;
+
+}
+
+.btn-2{
+	width: 200px;
+	height: 70px;
+	font-size: 1.2em;
+}
+
+
+
+
+
+
+
+
